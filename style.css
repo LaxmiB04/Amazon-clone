@@ -22,7 +22,7 @@
    margin-right: 8px;
 }
 .logo{
-    background-image: url(amazon-logo.png);
+    background-image: url(./images/amazon-logo.png);
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -83,7 +83,7 @@ input{
     color:#0f1111 ;
 }
 .flag{
-    background-image: url(flag.png);
+    background-image: url(./images/flag.png);
     height: 19px;
    width: 20px;
     background-size: cover;
@@ -133,7 +133,7 @@ span{
     font-weight: bold;
 }
 .hero-section{
-    background-image: url(herosection.jpg);
+    background-image: url(./images/herosection.jpg);
     width: 1533px;
     height: 400px;
     background-size: cover;
